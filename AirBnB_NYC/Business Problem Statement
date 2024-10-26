@@ -1,0 +1,39 @@
+As a Business data analyst for a real estate start-up. The main objective of this project is to provide insight into the short-term rental market in New York City. In a competitive market, it is my goal to help the start-up identify opportunities for growth and success.
+To accomplish this, the Head of Data has launched a project that collects Airbnb listing data from multiple sources, cleans it, and analyzes it. The analysis will aim to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
+
+The insights gained from the analysis had the potential to provide valuable information to the start-up on how to make informed business decisions. For example, the company could use the insights to identify which neighborhoods to invest in, which property types to focus on, and how to price their rentals to remain competitive in the market.
+
+By providing these insights, the project aimed to help the company make strategic decisions that could lead to growth and success in the short-term rental market in New York City.
+
+After meeting with my team, I wrote some questions to guide during the analysis:
+1. What are the most popular neighborhoods for short-term rentals in New York City?
+2. What is the average rental price for short-term rentals in New York City, and how does it vary by neighborhood and property type?
+3. What are the most commonly rented property types on Airbnb in New York City, and how does this vary by neighborhood?
+4. What is the average length of stay for short-term rentals in New York City, and how does this vary by neighborhood and property type?
+5. How has demand for short-term rentals in New York City changed over time, and are there any seasonal trends that could impact business decisions?
+
+
+The project will be divided into three sprints:
+Data Wrangling and Cleaning
+Data Analysis and Insights Generation
+Presenting my findings for Business Impact
+
+During the first sprint of the project, I worked with Python, focusing on importing, cleaning, and preparing the NYC Airbnb dataset. Once this phase is complete, I exported the resulting data for use in the next sprint.
+
+For the second sprint, we imported the cleaned and preprocessed data into bit.io and created a schema to continue analyzing the data.  
+
+In the final sprint, I used Tableau to create a presentation and video based on the analysis of the NYC Airbnb dataset. Additionally,  additional Airbnb data was provided to supplement the original dataset, which was used to enhance analysis and insights. 
+
+
+Project Background
+Pillow Palooza is a start-up focused on disrupting the traditional real estate market by offering short-term rental options for travelers. The company has seen a significant increase in demand for short-term rentals in New York City, but wants to better understand the market in order to optimize their business strategy.
+
+Pillow Palooza has collected data from various sources on Airbnb listings in New York City to gain insight into the market. The company now plans to analyze this data using its internal teams, in order to provide recommendations on how to maximize revenue and occupancy rates for their short-term rental properties.
+
+I have been selected for the Data Project. The project will provide insights and recommendations to the Pillow Palloza team, which is responsible for leading growth and success in the short-term rental market in New York City:
+
+STAKEHOLDER ANALYSIS
+Samantha Patel, CEO: As the CEO of Pillow Palooza, Samantha is responsible for setting the company's strategy and making high-level decisions about where to allocate resources. She will be interested in the insights gained from the project to determine which neighborhoods and property types the company should invest in and how to price their rentals to remain competitive in the market.
+John Kim, VP of Data: John is responsible for overseeing data strategy and analysis at Pillow Palooza. He will be interested in the insights gained from the project to understand how data can be used to drive business decisions and to identify any trends or patterns that can inform future projects or analyses. John may also be interested in exploring machine learning or predictive modeling to forecast demand for short-term rentals in different neighborhoods.
+Emily Chen, Head of Marketing: Emily is responsible for promoting Pillow Palooza's brand and increasing awareness among potential customers. She will be interested in the insights gained from the project to identify which neighborhoods and property types are most popular among potential guests and to develop targeted marketing campaigns to attract those guests.
+Michael Lee, Head of Finance: Michael is responsible for managing Pillow Palooza's finances, including setting rental prices and tracking revenue and expenses. He will be interested in the insights gained from the project to identify which neighborhoods and property types generate the highest revenue and to determine how to price rentals to maximize profitability.
